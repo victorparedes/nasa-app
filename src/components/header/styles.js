@@ -13,10 +13,6 @@ export default StyleSheet.create({
         flex: 1,
         alignItems: 'flex-end',
     },
-    title: {
-        fontSize: 20,
-        color: '#fff',
-    },
     image: {
         width: 60,
         height: 60,
