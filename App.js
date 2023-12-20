@@ -1,10 +1,12 @@
 import { SafeAreaView, StyleSheet, Platform, StatusBar } from 'react-native';
-import Home from './src/screens/Home';
+// import Home from './src/screens/Home';
 
+import Routes from './src/routes/Routes';
+//       <Home />
 export default function App() {
   return (
     <SafeAreaView style={styles.container}>
-      <Home />
+      <Routes />
     </SafeAreaView>
   );
 }
