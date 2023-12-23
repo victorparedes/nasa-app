@@ -2,7 +2,7 @@ import { View, Text, ScrollView } from "react-native";
 
 import TinyImage from "../tinyImage/tinyImage";
 import styles from "./styles";
-import Title from "../atoms/title/title";
+import Title from "../atoms/title";
 
 const TinyListImages = (props)=> {
     return (

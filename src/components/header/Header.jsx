@@ -1,7 +1,7 @@
 import { Image, Text, View } from "react-native";
 
 import styles from "./styles";
-import Title from "../atoms/title/title";
+import Title from "../atoms/title";
 
 const Header = () => {
     return (
