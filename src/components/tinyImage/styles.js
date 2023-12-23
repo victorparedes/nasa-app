@@ -8,12 +8,8 @@ export default StyleSheet.create({
         borderRadius: 15,
     },
     title: {
-        color: '#fff',
         fontWeight: 'bold',
         fontSize: 20,
         marginBottom: 12,
-    },
-    date: {
-        color: '#fff',
     },
 });

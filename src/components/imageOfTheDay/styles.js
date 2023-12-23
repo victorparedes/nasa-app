@@ -18,12 +18,10 @@ export default StyleSheet.create({
     },
     title: {
         fontSize: 20,
-        color: '#fff',
         marginVertical: 12,
         fontWeight: 'bold',
     },
     date: {
-        color: '#fff',
         fontSize: 15,
     },
 })

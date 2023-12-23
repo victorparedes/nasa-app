@@ -5,11 +5,11 @@ export default StyleSheet.create({
         flexDirection: 'row',
         alignItems: 'center',        
     },
-    containerLeft: {
+    containerTitle: {
         flex: 1,
         alignItems: 'flex-start',
     },
-    containerRight: {
+    containerLogo: {
         flex: 1,
         alignItems: 'flex-end',
     },
